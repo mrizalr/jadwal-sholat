@@ -1,0 +1,20 @@
+{
+  "id_kota": "1638",
+  "kota": "surabaya",
+  "notify": {
+    "ashar": true,
+    "dhuha": false,
+    "dzuhur": true,
+    "imsak": false,
+    "isya": true,
+    "maghrib": true,
+    "subuh": true,
+    "terbit": false
+  },
+  "period": {
+    "0": true,
+    "10": false,
+    "20": true,
+    "5": true
+  }
+}
